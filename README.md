@@ -1,7 +1,7 @@
 
 # Real_time_MTCNN_face_detection
 There are various ways to implement each of the steps in a face recognition pipeline. In this post we’ll focus on popular deep learning approaches where we perform face detection using MTCNN, feature extraction using FaceNet and classification using Softmax.
-This is a testing file for mtcnn built-in model in real-time
+This is a testing file for mtcnn built-in model in images and real-time.
 
 ## MTCNN
 MTCNN or Multi-Task Cascaded Convolutional Neural Networks is a neural network which detects faces and facial landmarks on images.
