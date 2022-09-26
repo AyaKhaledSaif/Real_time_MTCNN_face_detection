@@ -4,6 +4,8 @@ There are various ways to implement each of the steps in a face recognition pipe
 
 ## MTCNN
 MTCNN or Multi-Task Cascaded Convolutional Neural Networks is a neural network which detects faces and facial landmarks on images.
-## Instalation
-pip install MTCNN
 ![1](https://user-images.githubusercontent.com/112936318/192254490-08a50d79-045a-4ef7-a717-e9570896d82a.png)
+## Instalation
+- pip install mtcnn
+- pip install opencv-python
+
